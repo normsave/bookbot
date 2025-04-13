@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# C extensions
+*.pyd
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyCharm project settings
+.idea/
+
+# Virtual environments
+venv/
+env/
+ENV/
+*.env
+*.venv
+
+# Miniconda environment folder (if created in project directory)
+**/conda-env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm logs or caches
+.idea/
+*.iml
+
+# OS-specific
+.DS_Store
+Thumbs.db
